@@ -13,7 +13,7 @@ A **scalable eCommerce application** built with **GraphQL, Kafka, Redis, and JWT
 - **Scalable backend** with load balancing and API rate limiting
 
 ## 🏗️ Tech Stack
-- **Frontend:** Android (Java) + Apollo GraphQL
+- **Frontend:** Flutter + Apollo GraphQL
 - **Backend:** Node.js (Express) + GraphQL
 - **Database:** MongoDB
 - **Message Queue:** Apache Kafka
