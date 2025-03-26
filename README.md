@@ -19,4 +19,3 @@ A **scalable eCommerce application** built with **GraphQL, Kafka, Redis, and JWT
 - **Message Queue:** Apache Kafka
 - **Cache:** Redis
 - **Authentication:** JWT
-- **Deployment:** Docker, Kubernetes (Optional)
