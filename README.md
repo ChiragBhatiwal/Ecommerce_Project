@@ -1,2 +1,22 @@
 # Ecommerce_Project
-A scalable eCommerce app with GraphQL, Kafka, Redis, and JWT authentication. Features real-time order tracking, secure transactions, and efficient data handling. Built with Node.js, MongoDB, and an Android frontend (Java + Apollo GraphQL). Uses Kafka for event-driven architecture and Redis for caching.
+# 🛒 eCommerce App
+
+A **scalable eCommerce application** built with **GraphQL, Kafka, Redis, and JWT authentication** to enable real-time updates, secure transactions, and efficient data handling.
+
+## 🚀 Features
+- **GraphQL API** for flexible and efficient data fetching
+- **Kafka for real-time event-driven architecture** (order processing, notifications, etc.)
+- **Redis caching** for optimized performance
+- **JWT authentication** for secure access
+- **Live order tracking** with real-time updates
+- **Android frontend** using Java & Apollo GraphQL
+- **Scalable backend** with load balancing and API rate limiting
+
+## 🏗️ Tech Stack
+- **Frontend:** Android (Java) + Apollo GraphQL
+- **Backend:** Node.js (Express) + GraphQL
+- **Database:** MongoDB
+- **Message Queue:** Apache Kafka
+- **Cache:** Redis
+- **Authentication:** JWT
+- **Deployment:** Docker, Kubernetes (Optional)
